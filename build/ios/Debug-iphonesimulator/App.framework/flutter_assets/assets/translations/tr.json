@@ -1,0 +1,10 @@
+{
+  "home": "Anasayfa",
+  "buttons": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "english": "İngilizce",
+    "turkish": "Türkçe"
+  }
+}

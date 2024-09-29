@@ -1,0 +1,1 @@
+const translationsPath = 'assets/translations';

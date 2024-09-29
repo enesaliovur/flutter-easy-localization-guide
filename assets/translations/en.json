@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "english": "English",
+    "turkish": "Turkish"
+  }
+}

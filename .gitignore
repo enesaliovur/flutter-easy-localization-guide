@@ -1,0 +1,36 @@
+# Flutter related
+build/
+.flutter/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.pub-cache
+.pub/
+
+
+# macOS and iOS related
+ios/Flutter/.last_build_id
+ios/.generated/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+macos/Pods/
+macos/Podfile.lock
+macos/Runner.xcworkspace/
+*.xcconfig
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+
+# Generated localization keys, excluding .g.dart files
+*.g.dart
